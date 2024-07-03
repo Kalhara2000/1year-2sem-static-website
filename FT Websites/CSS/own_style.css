@@ -1,0 +1,48 @@
+.p-list{
+	width: auto;
+	/*height: 350px;*/
+	/*position:fixed;*/
+	margin: auto;
+	background-color: rgba(0,0,0, 0.7);
+	opacity: 0.8;
+	padding: auto;
+	overflow: hidden;
+	/*float: left;*/
+  }
+
+  .C-list{
+	width: auto;
+	/*height: 350px;*/
+	/*position:fixed;*/
+	margin: auto;
+	background-color: rgba(0,0,0, 0.7);
+	opacity: 0.8;
+	background-size: auto;
+	padding: auto;
+	overflow: hidden;
+	/*float: left;*/
+  }
+
+  .Dicon{
+	background-color: #fff;
+	  color: #1D809F;
+	  height: 7rem;
+	  width: 7rem;
+	  display: block;
+	  line-height: 7.5rem;
+	  font-size: 2.25rem;
+	  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+p.type_h{
+	font-family: Cooper Black;
+	font-size: 2rem;
+	text-align:center;
+	padding-top: 6rem;
+	padding-bottom: 2rem;
+}
+p.intent{
+	color: #6c757d;
+	font-style: italic;
+}
